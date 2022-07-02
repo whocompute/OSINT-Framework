@@ -5284,7 +5284,7 @@
             "url": "https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms"
           },
           {
-            "name": "Riot.im - Communicate, your way (T)",
+            "name": "Element Secure Messenger (T)",
             "type": "url",
             "url": "https://play.google.com/store/apps/details?id=im.vector.app"
           },
@@ -5334,21 +5334,6 @@
             "url": "https://play.google.com/store/apps/details?id=com.yahoo.mobile.client.android.flickr"
           }],
           "name": "Pictures",
-          "type": "folder"
-        },
-        {
-          "children": [
-          {
-            "name": "Periscope (T)",
-            "type": "url",
-            "url": "https://play.google.com/store/apps/details?id=tv.periscope.android"
-          },
-          {
-            "name": "Meerkat (T)",
-            "type": "url",
-            "url": "https://play.google.com/store/apps/details?id=co.getair.meerkat"
-          }],
-          "name": "Streaming Video",
           "type": "folder"
         },
         {
