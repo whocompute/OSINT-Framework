@@ -2439,11 +2439,6 @@
       {
         "children": [
         {
-          "name": "GeoChirp",
-          "type": "url",
-          "url": "http://www.geochirp.com/"
-        },
-        {
           "name": "GeoSocial Footprint",
           "type": "url",
           "url": "http://geosocialfootprint.com/"
@@ -2947,11 +2942,6 @@
         "url": "https://www.mylife.com/"
       },
       {
-        "name": "Ark",
-        "type": "url",
-        "url": "http://ark.com/landing"
-      },
-      {
         "name": "AnyWho",
         "type": "url",
         "url": "http://www.anywho.com/whitepages"
@@ -2980,11 +2970,6 @@
         "name": "Fast People Search",
         "type": "url",
         "url": "https://www.fastpeoplesearch.com/"
-      },
-      {
-        "name": "Speedy Hunt",
-        "type": "url",
-        "url": "https://speedyhunt.com/"
       },
       {
         "name": "Been Verified",
