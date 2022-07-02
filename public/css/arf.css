@@ -4,19 +4,28 @@ body {
   font-family: "Helvetica Neue", Helvetica;
 }
 
+h1 {
+  font-size: 40px;
+  margin: 10px 0px;
+}
+
+p {
+  margin: 10px 0px;
+}
+
 #body {
   margin: 0 auto;
   position: relative;
 }
 
-#header {
+#body header {
   font-size: 40px;
   font-weight: bold;
   top: 20px;
   text-align: center;
 }
 
-#header p {
+#body header p {
   font-size: 12px;
   font-weight: 400;
   margin: 5px 0px;
@@ -29,6 +38,14 @@ body {
 
 .legend h2 {
   margin: 10px 0px;
+}
+
+.legend ul {
+  padding-left: 0px;
+}
+
+.legend ul li {
+  list-style-type: none;
 }
 
 .node {
