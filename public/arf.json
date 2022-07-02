@@ -2194,7 +2194,7 @@
           "url": "https://twitter.com/search-advanced"
         },
         {
-          "name": "Twitter Location Search",
+          "name": "Twitter Location Search (M)",
           "type": "url",
           "url": "https://twitter.com/search?q=geocode%3A36.1143855%2C-115.1727518%2C1km&src=typd"
         },
