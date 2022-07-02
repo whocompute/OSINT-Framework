@@ -2572,6 +2572,22 @@
     {
       "children": [
       {
+        "name": "Imginn",
+        "type": "url",
+        "url": "https://imginn.com/"
+      },
+      {
+        "name": "Bibliogram",
+        "type": "url",
+        "url": "https://bibliogram.art/"
+      }
+    ],
+      "name": "Instagram",
+      "type": "folder"
+    },
+    {
+      "children": [
+      {
         "name": "LinkedInt - LinkedIn Recon Tool",
         "type": "url",
         "url": "https://github.com/vysec/LinkedInt"
