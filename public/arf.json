@@ -5236,6 +5236,11 @@
           "url": "http://www.andyroid.net/"
         },
         {
+          "name": "Anbox (T)",
+          "type": "url",
+          "url": "https://anbox.io/"
+        },
+        {
           "name": "Nox App Player",
           "type": "url",
           "url": "https://www.bignox.com/"
