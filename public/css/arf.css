@@ -16,13 +16,19 @@ body {
   text-align: center;
 }
 
+#header p {
+  font-size: 12px;
+  font-weight: 400;
+  margin: 5px 0px;
+}
+
 .legend {
-  position: absolute;
-  top: 0px;
-  right: 0;
-  width: 330px;
   font-size: 11px;
   color: #000;
+}
+
+.legend h2 {
+  margin: 10px 0px;
 }
 
 .node {
