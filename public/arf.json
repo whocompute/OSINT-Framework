@@ -5347,11 +5347,6 @@
             "name": "Meerkat (T)",
             "type": "url",
             "url": "https://play.google.com/store/apps/details?id=co.getair.meerkat"
-          },
-          {
-            "name": "Vine (T)",
-            "type": "url",
-            "url": "https://play.google.com/store/apps/details?id=co.vine.android"
           }],
           "name": "Streaming Video",
           "type": "folder"
