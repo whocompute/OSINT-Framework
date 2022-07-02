@@ -4,7 +4,8 @@ This is a more up-to-date version of [OSINT-Framework](https://github.com/lockfa
 
 Mostly I'm just merging in pull requests from the main repo, because they don't get merged there anymore.
 
-If you have an exciting new website you want included, just make a pull request here.
+If you have an exciting new website you want included, just make a pull request here. HOWEVER, I can't guarentee
+that it will be merged, as right now I'm mostly doing just removals.
 
 You can see the original website [here](https://osintframework.com).
 
