@@ -1,0 +1,14 @@
+{
+  "name": "osint-framework",
+  "main": "index.html",
+  "homepage": "https://github.com/whocompute/OSINT-Framework",
+  "authors": [
+    "Justin Nordine (s0lray)",
+    "whocompute"
+  ],
+  "description": "A fork of the original OSINT-Framework",
+  "license": "",
+  "dependencies": {
+    "d3": "3.5.16"
+  }
+}
