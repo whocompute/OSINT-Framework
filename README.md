@@ -1,6 +1,6 @@
 # OSINT Framework
 
-This is a more up-to-date version of [OSINT-Framework](https://github.com/lockfale/osint-framework).
+This is a slightly more up-to-date version of [OSINT-Framework](https://github.com/lockfale/osint-framework).
 
 Mostly I'm just merging in pull requests from the main repo, because they don't get merged there anymore.
 
