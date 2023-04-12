@@ -11,7 +11,7 @@ You can see the original website [here](https://osintframework.com).
 
 ### Where to find stuff:
 
-This site will hopefully soon be going up on my website [whocompute.com](https://whocompute.com).
+This site is now hosted at [whocompute.com/osint](https://whocompute.com/osint).
 
 You can follow the original author on Twitter: [@jnordine](https://twitter.com/jnordine)
 
